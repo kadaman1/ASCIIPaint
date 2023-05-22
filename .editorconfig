@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0414: Pole „Cell.color” jest przypisane, lecz jego wartość nie jest nigdy używana
+dotnet_diagnostic.CS0414.severity = none
